@@ -104,3 +104,4 @@ The application needed centralized error handling and robust logging for easier 
 - `server/utils/modelHelper.js` (**modified**)
 - `server/utils/logger.js` (**added**)
 - `server/middlewares/errorHandler.js` (**modified**)
+- `server/controllers/authController.js` (**modified**)
